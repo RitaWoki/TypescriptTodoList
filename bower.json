@@ -1,0 +1,17 @@
+{
+  "name": "typescript-todolist",
+  "description": "###-January 13,2017",
+  "main": "index.js",
+  "authors": [
+    "RitaWoki"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ritawoki/typescript-todolist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

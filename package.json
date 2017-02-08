@@ -1,0 +1,17 @@
+{
+  "name": "typescript-todolist",
+  "version": "1.0.0",
+  "description": "#### _January 13, 2017_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritawoki/TypescriptTodoList.git"
+  },
+  "author": "RitaWoki",
+  "license": "ISC",
+
+
+}
